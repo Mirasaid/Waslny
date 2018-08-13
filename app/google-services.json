@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "893855682740",
+    "firebase_url": "https://waslny-f2956.firebaseio.com",
+    "project_id": "waslny-f2956",
+    "storage_bucket": "waslny-f2956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893855682740:android:4b50f69c0e39ed17",
+        "android_client_info": {
+          "package_name": "com.example.freewaresys.waslny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893855682740-i9cbijukcitg5v9p8gnh9oes1llpie30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freewaresys.waslny",
+            "certificate_hash": "3ca515372a6e0391da693bcf54bf9c4c67ced0b4"
+          }
+        },
+        {
+          "client_id": "893855682740-e8gf3m01eutcpcvenoau2f8ivirb5j0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qISuVSlZt2j-Ov2c-o0rltAcPZO1XKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893855682740-e8gf3m01eutcpcvenoau2f8ivirb5j0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
